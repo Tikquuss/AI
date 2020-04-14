@@ -1,2 +1,1 @@
-# IA
-Quelques projets en intelligence artificielle
+# AI is awesome !
